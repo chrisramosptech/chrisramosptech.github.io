@@ -1,0 +1,71 @@
+
+/*********************************************
+General
+**********************************************/
+ .wrap{
+
+ }
+body{
+  background-color: #CACACA;
+}
+
+
+.row{
+  max-width: 97%;
+}
+
+hr{
+  border-color: black;
+}
+/*********************************************
+Navigation
+**********************************************/
+.top-bar{
+  background-color: #1C1C1C;
+}
+.top-bar ul{
+  background-color: transparent;
+
+}
+.top-bar h4, .top-bar a{
+  color:  white;
+}
+.top-bar li{
+  background-color: #1C1C1C;
+}
+/******************************************
+Header
+*******************************************/
+body{
+
+}
+.footer{
+  background-color: #1C1C1C;
+  color: white;
+}
+
+
+/*******************************************
+main
+********************************************/
+.main{
+  padding: 2em 0;
+}
+
+.main img{
+  width:100%;
+  margin: auto;
+}
+
+/*******************************************
+Footer
+********************************************/
+.footer{
+  background-color: #1C1C1C;
+  padding: 2em 0;
+}
+
+.footer img{
+  width:3em;
+  height:3em;
+}
